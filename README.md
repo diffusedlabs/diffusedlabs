@@ -10,11 +10,11 @@ Our mission is to democratize access to decentralized financial systems by creat
 
 ### Diffused Dex – Orderbook Limit Order System
 
-[Diffused Dex](https://diffuseddex.com/) is not a traditional decentralized exchange. Instead, it is an advanced orderbook system built on top of existing DEXes, offering users the ability to place limit orders on the Hedera network. When the market price reaches the specified level, your order is executed automatically. This innovative solution allows traders to manage their trades with precision while leveraging liquidity from multiple sources.
+<a href="https://diffuseddex.com/" target="_blank" rel="noopener noreferrer">Diffused Dex</a> is not a traditional decentralized exchange. Instead, it is an advanced orderbook system built on top of existing DEXes, offering users the ability to place limit orders on the Hedera network. When the market price reaches the specified level, your order is executed automatically. This innovative solution allows traders to manage their trades with precision while leveraging liquidity from multiple sources.
 
 ### Launchpad
 
-Our [Launchpad](https://launchpad.diffusedlabs.com/) ecosystem empowers blockchain projects with a range of tools and resources for seamless token creation, presales, fair launches, private sales, liquidity locking, airdrops, and more. By connecting innovators with early-stage capital and community support, we enable transformative ideas to flourish and accelerate the growth of the decentralized ecosystem.
+Our <a href="https://launchpad.diffusedlabs.com/" target="_blank" rel="noopener noreferrer">Launchpad</a> ecosystem empowers blockchain projects with a range of tools and resources for seamless token creation, presales, fair launches, private sales, liquidity locking, airdrops, and more. By connecting innovators with early-stage capital and community support, we enable transformative ideas to flourish and accelerate the growth of the decentralized ecosystem.
 
 ## Why Choose Diffused Labs?
 
@@ -25,7 +25,7 @@ Our [Launchpad](https://launchpad.diffusedlabs.com/) ecosystem empowers blockcha
 
 ## Connect With Us
 
-Stay updated with our latest developments and join our vibrant community. Follow us on Twitter at [@DiffusedLabs](https://x.com/DiffusedLabs) for insights, news, and opportunities to engage with our team and fellow innovators in the DeFi space.  
-Join our Discord community: [Discord](https://discord.gg/vkMctx3PEd)
+Stay updated with our latest developments and join our vibrant community. Follow us on Twitter at <a href="https://x.com/DiffusedLabs" target="_blank" rel="noopener noreferrer">@DiffusedLabs</a> for insights, news, and opportunities to engage with our team and fellow innovators in the DeFi space.  
+Join our Discord community: <a href="https://discord.gg/vkMctx3PEd" target="_blank" rel="noopener noreferrer">Discord</a>
 
 Join us in shaping the future of decentralized finance and building innovative solutions that empower everyone to participate in the digital economy.
